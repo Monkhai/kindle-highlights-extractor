@@ -1,0 +1,41 @@
+# How to Take Smart Notes in Obsidian
+
+- Enable Daily notes
+- Daily notes is a core (built-in) plugin that will automate the creation of a daily note using a date format as the name. You’ll use this note to capture fleeting notes.
+- Add a reference folder
+- Literature notes are taken while reading or consuming a piece of literature or other form of content with the purpose to better understand what you’re consuming. Once taken, literature notes are stored alongside the source material in a reference system.
+- Create a slip-box
+- The slip-box is the external storage for your long-term memory. It handles the details and references and keeps them both unaltered. Which frees up the brain to focus on thinking, to understand the gist of the information consumed, and to think about the bigger picture of how ideas connect. In Obsidian, you’ll use a folder yet again to separate permanent notes from other types of notes (fleeting and literature notes).
+- Enable the Unique note creator plugin.
+- Add a project folder
+- Project notes are kept within project specific folders that can be disposed of or archived once the project is completed.
+- Identify at least one project you hope taking Smart Notes will help you complete, then create a folder for it.
+- Take Smart Notes
+- Taking Smart Notes is a form of deliberate practice that turns note-taking into a natural and rhythmic process that slows down your consumption of information and allows you to fully digest what you consume.
+- Fleeting notes capture ideas. Literature notes solidify understanding. Permanent notes translate understanding to long-term knowledge. And organizing the slip-box through making connections, surfaces insight while anchoring new knowledge to previous knowledge.
+- Capture fleeting notes
+- No good idea should go to waste and ensuring you capture those ideas is the purpose of the fleeting note. Fleeting notes are temporary reminders of thought. Meant to be written quickly and should not distract you from the task at hand; reading, listening, watching. Fleeting notes can be ideas, insights, and/or tasks.
+- Take literature notes
+- When you take a literature note, you’re testing your understanding while at the same time developing the ability to determine what’s relevant to you.
+- Use literature notes to capture what you don’t want to forget or what you might use in your own thinking. Be very selective and keep the notes short. Record the bibliographic details as you take the notes. Then archive the literature note in the reference folder.
+- Note: Taking literature notes is also a way to prevent yourself from becoming overwhelmed by the premature attempt to translate everything into a permanent note.
+- Take permanent notes
+- Permanent notes are the result of your own thinking, which is sparked by a fleeting note and/or a literature note.
+- before an idea can be connected to another, it has to be abstracted.
+- Abstraction is the process of taking an idea from its original text and making it usable in a general sense without the support of added context. To abstract an idea you rewrite it in your own words as if you’re writing for someone else who doesn’t have the context of its source.
+- Add Smart Notes to the slip-box
+- Add the note directly behind the note being referenced by starting or continuing a sequence. Add note-to-note links on or from related notes Add a link to the note directly on the index or from a note already connected to the index In Obsidian, you can automatically create the note within the slip-box with the Create unique note plugin, but it’s useful to stage unconnected notes outside the slip-box and batch their processing.
+- Begin a sequence
+- Systems that allow complexity to build up in the wrong places eventually force you to choose between usability and usefulness.
+- Use note sequences to group notes that support a common idea, argument, or discussion.
+- Create note-to-note links
+- Index the note
+- You will never have to---nor should you try to---build an index note that provides an overview of the entire slip-box, just as you never have a full picture of all the knowledge in your own mind. Instead, settle for designing a room with many doors that can bring you back to different areas of your knowledge.
+- Keywords are used to populate the index and should be used sparingly. Never link a single keyword to more than four notes
+- choose keywords that answer the questions “How would I retrieve this note? What context would I want to remember this in? and If I forgot this knowledge, what would I search for?”
+- When choosing a keyword, ensure that it goes beyond the scope of a single note. Keywords that are too specific fail to collect related notes together and fracture the navigation of the slip-box.
+- Use structure notes to organize topics
+- Navigate through connections
+- By design the slip-box is not meant to be searched it’s meant to be browsed leisurely like a library, and you browse your slip-box through its connections.
+- Notes are then discovered through their connection to other notes, be that a connection to an index, structure note, sequence, or another note.
+- Build projects from Smart Notes

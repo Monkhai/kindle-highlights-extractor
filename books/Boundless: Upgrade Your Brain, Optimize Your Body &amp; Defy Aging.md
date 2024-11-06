@@ -1,0 +1,346 @@
+# Boundless: Upgrade Your Brain, Optimize Your Body &amp; Defy Aging
+
+- A bonk happens when your entire body runs out of carbohydrates.
+- Usually, the sugars stored in your muscles and liver, known as glycogen, can fuel about one and a half to two hours of exercise.
+- Central nervous system fatigue?
+- As the brain and body work harder and harder, muscle tissue is broken down, resulting in increased levels of a sleep-inducing amino acid called tryptophan. Tryptophan crosses the blood-brain barrier and, smack-dab in the middle of an adrenaline-pumping competition, causes you to crave a post-Thanksgiving-dinner siesta. Tryptophan is the precursor to the neurotransmitter serotonin, and increased levels of serotonin can cause lethargy, depress motor neuron excitability, alter nervous system and hormone functions, decrease the strength of muscular contractions, and even impair judgment.
+- during CNS fatigue, levels of excitatory neurotransmitters such as dopamine and acetylcholine plummet,
+- amino acids are the building blocks of neurotransmitters.
+- NEUROTRANSMITTERS 101
+- How Neurons Work
+- Your brain communicates with the rest of your body by initiating a chain reaction that runs along a string of nerve cells, or neurons. Each neuron has dendrites at its head, where it receives messages, and axons at its end, from which it transmits messages. A neuron relays the message from its dendrites to its axons through an action potential, which is an electrical charge imbalance. Neurons are not connected to one another physically. Between the presynaptic cell (the neuron sending the message) and the postsynaptic cell (the neuron receiving the message) exists a gap called a synaptic cleft. So how does the brain’s message jump from one neuron to the next until it reaches the target gland or muscle? The presynaptic cell releases neurotransmitters to initiate a new action potential down the postsynaptic cell. The pattern then restarts. What was the postsynaptic cell is now the presynaptic cell, which releases neurotransmitters for the next neuron, the new postsynaptic cell. This process of synaptic transmission repeats until the brain’s message reaches its final destination.
+- The Most Common Neurotransmitters
+- In addition to serotonin, the most common neurotransmitters are dopamine, acetylcholine, and gamma-aminobutyric acid (GABA).
+- Dopamine is the primary motivating chemical; it can promote ambition, drive, and action by influencing the areas of the brain responsible for conscious movement.
+- Acetylcholine promotes focus, memory, and cognition and is necessary for motor neuron function and muscular movement.
+- GABA helps you relax and calm down. Without it, you become tense and anxious.
+- Serotonin also regulates gut motility (the movement of food through the GI tract) and is responsible for good bowel movements.
+- YOUR UNIQUE NEUROTRANSMITTER DOMINANCE
+- In addition to neurotransmitter imbalances and deficits, you likely have some neurotransmitter dominance as well.
+- Neurotransmitter dominance isn’t the same thing as neurotransmitter excess.
+- neurotransmitter excess is most often caused by a dysfunction in neurotransmitter production or poor removal of a neurotransmitter from the synapse,
+- a dominance is simply your distinct genetic predisposition to produce higher levels of a given neurotransmitter.
+- Dopamine Dominance
+- When dopamine is in excess, you are tempted to engage in impulsive actions and push yourself too far beyond your limits.
+- you are at constant risk of physically and mentally burning out.
+- a dopamine deficiency can lead to fatigue, sluggishness, memory loss, or depression.
+- You can boost your dopamine levels by using supplements that contain dopamine neurotransmitter precursors or naturally occurring levels of dopamine, such as amino acids, vitamin B complexes, Rhodiola rosea (rhodiola) and Ginkgo biloba (ginkgo); eating foods such as chicken, cottage cheese, eggs, pork, turkey, nuts, wheat germ, oats, milk, and yogurt; and aiming for a moderate intake of caffeine.
+- Acetylcholine Dominance
+- In a state of acetylcholine excess, you may become paranoid, panicky, or anxious.
+- An acetylcholine deficiency can result in poor memory recall, slow reactions to sensory stimuli, and a brain that generally feels slow.
+- Acetylcholine-supporting compounds include choline, phosphatidylcholine, acetyl-L-carnitine, and many herbal nootropics (that is, natural compounds that improve cognitive functioning), such as ginkgo and ginseng.
+- In addition to eating a diet high in healthy, choline-rich sources of fat, such as eggs, nuts, cold-pressed oils, and avocados, I have found it helpful to take 4 g or more of fish oil per day and the nootropic supplement Qualia, which contains a host of choline precursors and derivatives. This strategy can also be effective for serotonin or dopamine deficiencies and excess GABA.
+- Gaba Dominance
+- Excess GABA may amplify your tendency to nurture to the point that you ignore your own health and needs.
+- A GABA deficiency can make you feel nervous, irritable, and anxious.
+- Herbs and supplements that support GABA include melatonin, phenibut (at night), valerian root, and passionflower.
+- Serotonin Dominance
+- Excess serotonin can make you nervous and distracted and prone to emotional extremes. It can also induce desperation for interpersonal interactions.
+- A serotonin deficiency—often brought on by too much excitement or insufficient sleep—can make you feel overtired and out of control.
+- Serotonin-supporting compounds include fish oil, 5-HTP, magnesium, St. John’s wort, and tryptophan.
+- TESTING YOUR NEUROTRANSMITTERS
+- Low levels of HVA can be due to low levels of dopamine or poor conversion of dopamine to HVA, often caused by insufficient levels of methyl groups, magnesium, and NAD, which are needed to metabolize dopamine. This can be accompanied by addictions, cravings, and pleasure seeking (to boost levels) in addition to sleepiness, impulsivity, tremors, low motivation, fatigue, and low mood.
+- Low levels of VMA in the urine may indicate low adrenal hormone output and often signal a copper or vitamin C insufficiency. This can be accompanied by addictions, cravings, fatigue, low blood pressure, low muscle tone, exercise intolerance, depression, and loss of alertness.
+- Dr. Datis Kharrazian, author of the book Why Isn’t My Brain Working?, states, “There is no scientifically validated way to test neurotransmitter levels through lab testing. The best way is to assess your symptoms.”
+- Neurotransmitters and Your Gut
+- Neurotransmitters produced outside of your brain, such as those produced by the bacteria in your gut, cannot cross the BBB, though amino acid neurotransmitter precursors like tryptophan and B vitamins can.
+- neurotransmitters in the rest of the body, such as those in the gut, can still affect the health and function of the brain.
+- When neurotransmitter activity in the gut or brain is disrupted, the neurotransmitters in the other area are also affected.
+- serotonin regulates healthy bowel movements by improving gut motility.
+- 9 WAYS TO FIX YOUR NEUROTRANSMITTERS
+- 1. Avoid Antidepressants
+- it’s far from certain that SSRIs are safe or effective, especially with long-term use. Eventually, not only do you require increasing doses of SSRIs to have the same effect, but you also eliminate up to 60 percent of the serotonin receptors in your brain as they become downregulated due to long-term exposure to flooded levels of serotonin.
+- Are there alternatives? You bet. Natural supplements such as acetyl-L-carnitine, probiotics, and even curcumin can all be highly effective antidepressant strategies with far lower risk than a pharmaceutical antidepressant.
+- 2. Limit Your Intake of Stimulants
+- low doses of caffeine can improve mental performance and protect against Alzheimer’s,
+- But, like antidepressants, high doses of caffeine, ephedrine, ephedra, guarana, Ritalin, and other central nervous system stimulants can overwhelm the brain with excitatory neurotransmitters, creating resistance to neurotransmitters and long-term receptor damage.
+- Caffeine is both water- and fat-soluble, which means it can easily cross your blood-brain barrier. When you frequently consume coffee, tea, soda, and other caffeine-containing drinks, you cause a gradual change in your brain’s chemistry and physical characteristics, especially in the number of receptors for adenosine, a chemical that induces a state of tiredness and supports natural sleep rhythms.
+- 3. Avoid Toxins
+- Colognes, perfumes, brake dust, smog, airborne heavy metals, and even Christmas tree–shaped car air fresheners contain toxins that can drastically affect neurotransmitter production as well as your sensitivity to those neurotransmitters.
+- To avoid these effects, you can take the following measures.
+- Eat organic fruits and vegetables when possible and wash other vegetables in a water-and-vinegar solution.
+- Use natural household cleaners like lemon juice, vinegar, and baking soda.
+- Choose a holistic dentist for any dental work.
+- Use natural personal care products. Check labels and avoid parabens, dyes, and fragrances.
+- Fortify your home with air and water filters.
+- 4. Avoid Sensory Overload
+- 5. Fix Your Gut
+- The enteric nervous system (ENS) is a net of neurons that controls your gut and operates semi-independently from your brain. It uses more than thirty neurotransmitters, just like the brain, and up to 95 percent of your body’s serotonin is actually produced in your gut. This makes sense when you consider that in the nine meters from your esophagus to your anus, there are more than 100 million neurons, more than in your spinal cord or your entire peripheral nervous system!
+- Neurotransmitters are produced in your gut lining and by the billions of bacteria in your gut.
+- probiotics and the consumption of a wide variety of fermented foods can be highly effective natural remedies for depression.
+- gut reboot: four to eight weeks of
+- Autoimmune Paleo (AIP) diet and the low-FODMAP diet—combined with generous amounts of glutamine, colostrum, and bone broth or collagen.
+- 6. Replace Your Building Blocks
+- Some of the best high-quality amino acid sources are grass-fed beef, wild salmon, eggs from pastured chickens, raw organic dairy, almonds and almond butter, quinoa, and spirulina or chlorella.
+- 10 to 20 g each day of essential amino acid supplements, which combine the nine essential amino acids to supply all the necessary neurotransmitter precursors.
+- In contrast, supplements that contain the correct balance of all nine EAAs—
+- have been shown to improve the retention of lean muscle, increase metabolic rate, and optimize brain and liver function, with no deleterious side effects and a very low calorie load.
+- My preferred brand of EAA supplements is Kion
+- For the nervous system to synthesize and circulate the neurotransmitters formed by amino acids, you need to have an adequate intake of B-complex vitamins. Vitamins B6, B12, and folate (vitamin B9) are especially important.
+- Excellent food sources of vitamin B6 include bell peppers, turnip greens, and spinach.
+- Folate can be found in broccoli, beets, turnip and mustard greens, romaine lettuce, lentils, calf’s liver, asparagus, parsley, and spinach.
+- B12 sources include calf’s liver and snapper.
+- For vitamin B supplementation, look into full-spectrum vitamin B blends that use only the highly bioavailable form of vitamin B called 5-methyltetrahydrofolate (5-MTHF). (I recommend the Thorne Multivitamin Complex and the herbal smart drug Qualia, a nootropic with plenty more than B vitamins in it.)
+- 7. Lube Your Nerves
+- cholesterol levels lower than 200 are associated with lower IQ,
+- Your nerves are wrapped in insulating myelin sheaths, sleeves of fatty tissue that protect your nerve cells and assist with the transmission of messages between your brain and the rest of your body.
+- Omega-3 fatty acids, particularly docosahexaenoic acid (DHA), are important for the formation of myelin sheaths, so a neurotransmitter-supporting diet should include a high intake of omega-3s.
+- Flax seeds, walnuts, kale, collard greens, and winter squash contain high levels of omega-3 fatty acids, but the amount that is absorbed from them can be relatively low.
+- fatty acids include salmon, sardines, cloves, grass-fed beef, halibut, shrimp, cod, and tuna.
+- With each meal, include at least one source of oleic acid, such as olives, olive oil, or avocados, and at least one source of DHA, such as cold-water fish, fish oil, algae, or DHA-enriched eggs. My personal strategy is to keep a bottle of extremely high-quality extra-virgin olive oil on hand in the kitchen at all times and to travel with a fish oil high in DHA.
+- 8. Repair Your Genes
+- the Super Seven, which is a list of so-called dirty genes—gene variants that directly affect not only neurotransmitters but also several other important metabolic functions. The Super Seven are:
+- • MTHFR, which supports methylation, a crucial process involved in more than two hundred of your body’s vital functions
+- • GST/GPX, two gene variants responsible for regulating your body’s energy levels as well as your glutathione levels, thus impacting your natural antioxidant responses
+- • COMT, which affects the metabolism of dopamine, norepinephrine, and epinephrine, thus regulating your mood, energy levels, and ability to calm down, sleep, and focus
+- • DAO, which affects your body’s response to histamines from food and bacteria, thus affecting your vulnerability to food allergies and intolerances
+- • MAOA, which affects your relationship to dopamine, norepinephrine, and serotonin, thus governing your mood, energy, sugar cravings, and ability to sleep
+- • NOS3, which affects your circulation and nitric oxide levels and helps determine your cardiovascular health and vulnerability to heart attacks, circulatory issues, and stroke
+- • PEMT, which affects your cell walls, brain, and liver, impacting a range of health issues, such as gallstones, fatty liver disease, gut problems, and attention and focus deficits
+- You can test for these genes by taking an inexpensive salivary DNA test through a company such as 23andMe and then uploading the results to StrateGene for interpretation.
+- 9. Focus on Antioxidants
+- Multiple studies show the importance of one particular antioxidant, N-acetylcysteine (NAC), for reducing the neuronal damage and degeneration associated with excess levels of excitatory neurotransmitters like glutamate.
+- NAC—best taken as a supplement—is now recognized as a crucial nutrient for treating neurological disorders such as schizophrenia and bipolar disorder.
+- it can also be very effective at treating addiction to everything
+- Two other antioxidants called luteolin and diosmin have been shown to reduce levels of beta-amyloid, which is strongly associated with Alzheimer’s disease. Lemons are rich in diosmin, and luteolin is abundant in green peppers and tomatoes.
+- THE LAST WORD
+- ONE THING YOU CAN DO THIS WEEK
+- 02 38 DEGREES BELOW ZERO HOW TO FIX A LEAKY BRAIN
+- DO YOU HAVE A LEAKY BRAIN?
+- The following are the most common factors that can lead to a leaky brain.
+- Poor Sleep
+- Excessive Alcohol Intake
+- High Blood Pressure
+- High blood pressure can be caused by anything from chronic stress and shallow chest breathing to poor diet and lack of sleep.
+- Other Factors
+- • Systemic inflammation • Stress, whether acute or chronic • Bacterial infections • Toxins like lipopolysaccharides, which are generated from high-fat, high-carbohydrate meals • Mold exposure • A leaky gut • Liver damage • Frequent blood glucose fluctuations • Frequent sleep disturbances • Anything that triggers oxidative stress in glial cells of the brain, such as high sugar intake • Hypoxia (oxygen deficiency in the cells), especially from shallow, rapid mouth breathing rather than deep, slow nasal breathing • In some people, high intake of glutamate and MSG.
+- if you’re consuming very high amounts of glutamate (more than 20 g per day), it could be a problem, since excess glutamate in the brain can cause cell damage and cell death.
+- 12 WAYS TO FIX A LEAKY BRAIN
+- 1. Get More Sleep
+- 2. Limit Your Alcohol Intake
+- 3. Control Blood Pressure
+- Both acute and chronic hypertension increase BBB permeability.
+- Dark chocolate, magnesium, potassium, handgrip strength training, and even high-dose garlic can all help reduce blood pressure.
+- Taking a supplement of allicin, the main bioactive component of garlic, is a far more efficient way to get the brain-boosting benefits of garlic, without acquiring vampire-killing breath.
+- 4. Be Cautious with High-Fat Diets
+- In one study, rodents that were given a diet that was 40 percent saturated fat experienced elevated BBB permeability. But if you happen to be a high-fat, low-carb diet enthusiast, there are ways to mitigate this effect. Adding aged garlic extract, alpha-lipoic acid (particularly R-ALA, its more biologically active form), niacin, or nicotinamide eliminated this elevation. Supplementing with bitter melon and vitamin D3 has also been shown to be effective. Phytonutrient-rich plants and spices such as turmeric, Astragalus propinquus root (astragalus), and cruciferous veggies like broccoli, brussels sprouts, and cabbage produce a similar healing effect. Fiber-rich foods like sweet potatoes, kale, and beans are also helpful.
+- 5. Drink Coffee and Tea
+- 6. Take Supplements
+- Alpha-GPC, a type of choline that readily crosses the BBB, is known to improve endothelial dysfunction.
+- Inositol from egg yolks or supplements also enhances BBB integrity.
+- Berberine reduces BBB permeability and increases resistance to brain damage following head trauma.
+- Vitamins B12, B6, and B9 restore a damaged BBB to equilibrium.
+- In addition, individuals who have had head injuries and suffer from a leaky brain have been shown to benefit from apigenin, butyrate, citicoline, and shilajit.
+- inhibitors of MMP-9 have been shown to restore BBB integrity. These inhibitors include curcumin, resveratrol, berberine, fish oil, ginger, broccoli, watercress, pomegranate extract, and many other natural anti-inflammatories found in fruits, vegetables, herbs, and spices.
+- 7. Get More Magnesium
+- Adequate magnesium intake, between 300 and 400 mg a day, can attenuate BBB permeability—
+- In amounts over 1,500 mg per day, magnesium can cause loose stools.
+- 8. Stimulate Your Vagus Nerve
+- You can naturally stimulate the nerve with practices like massages, singing, chanting, meditation, deep breathing, and cold showers.
+- 9. Avoid Frequent Snacking
+- Ghrelin, a hunger-stimulating hormone, can improve BBB integrity.
+- By avoiding frequent snacking and grazing, practicing intermittent fasting, and not eating until you’re actually hungry, you can normalize your ghrelin levels.
+- 10. Nourish Your Gut Bacteria
+- eating more prebiotic fiber, taking quality probiotics, and eating a wide variety of fermented foods on a regular basis.
+- 11. Decrease Inflammation
+- Dr. Kharrazian recommends stimulating the vagus nerve in order to reboot it, through singing, gargling, and gagging exercises, along with coffee enemas.
+- 12. Cold Thermogenesis
+- One simple option is to use Ray Cronise’s Shiver System, a five-minute cold shower at the beginning and end of the day. It involves alternating from twenty seconds of cold water to ten seconds of warm water ten times through.
+- 03 BREATHWORK AND BEYOND
+- the Bohr effect: high levels of CO2 cause the hemoglobin in red blood cells to dump their precious oxygen. Because this increases oxygen levels in the brain and muscles, it results in huge surges of energy and enhanced physical performance.
+- Quick Tips to Breathe Better
+- Breathe in through whichever nostril correlates to the part of the brain you want to activate (keeping in mind that the left side of the brain is associated with the right side of the body, and vice versa). For example, if you have a more left-brain, analytical, logical task to accomplish, precede it with one to two minutes of inhaling only through your right nostril. If you need to accomplish a more right-brain, creative task, then inhale only through the left nostril. Breathing only through your left nostril is also an effective way to activate the parasympathetic nervous system before bed or a nap.
+- To increase your CO2 levels, you can mix 2 teaspoons of baking soda with a glass of water and drink it before, during, or after training. Alternatively, throughout the day, you can sip on a form of bottled water that is naturally high in sodium bicarbonate, such as San Pellegrino bottled water.
+- Add one to two cups of baking soda to a bath and soak in it for twenty to thirty minutes to increase circulating CO2 levels.
+- Take three deep abdominal breaths prior to a meal to center your body and improve nutrient uptake.
+- STRESS AND THE HPA AXIS
+- Hormesis is a biological reaction in which low doses of an agent that could be toxic or lethal at higher doses have a beneficial effect, such as improved health, stress tolerance, muscle growth, or longevity.
+- excessive exposure to hormetic stress from all those workouts, cold baths, sauna sessions, and more is often combined with: • Physical stress from sleep deprivation • Chemical stress from drugs, alcohol, caffeine, nicotine, cleaning chemicals, or pesticides • Mental stress from anxiety or worry • Emotional stress from anger, guilt, loneliness, sadness, or fear • Nutritional stress from food allergies or nutritional deficiencies • Spiritual stress from troubled relationships or financial or career pressures When any of this stress—both the good and the bad—gets too high and too hard for too long, you can break your brain via a third system, which is the focus of this chapter. That system is the hypothalamic-adrenal-pituitary axis (HPA axis), and when it breaks, you end up with HPA axis dysfunction.
+- The HPA axis includes the hypothalamus (the part of your forebrain toward the front of your skull), the pituitary gland (just below the hypothalamus), and the adrenal glands (at the top of the kidneys). By producing a host of chemicals, such as corticotropin-releasing hormone (CRH), adrenocorticotropic hormone (ACTH), glucocorticoids, and cortisol, these three organs regulate functions such as stress response, mood, digestion, immune system function, libido, metabolism, and energy levels.
+- This entire axis operates on what are called feedback loops. A feedback loop occurs when the output of any system loops back to that system as an input. A positive feedback loop would increase a system’s output, while a negative feedback loop would decrease a system’s output.
+- inflammation. Cortisol modulates inflammation, and there are many environmental factors aside from AF that could result in an acute or chronic inflammatory state.
+- How does inflammation lead to symptoms that could be misconstrued as AF? First, tiredness, a chief symptom of AF, is actually modulated by the hypothalamus. The hypothalamus is regulated in part by orexin neurons, and inflammation leads to the suppression of orexin neurons, resulting in an overall feeling of fatigue.
+- Stress can lead to the release of pro-inflammatory compounds like cytokines, blood cells, and platelets, which, in turn, lead to chronic low-level inflammation.
+- one other underlying cause of fatigue is mitochondrial dysfunction. When your mitochondria fail, ATP production drops, resulting in reduced energy levels, which affects everything from muscle contraction to hormone production.
+- Your mitochondria often fail when the system responsible for producing ATP becomes excessively stressed.
+- In this scenario, ATP is converted into ADP faster than it can be recycled, resulting in a buildup of ADP. Some of the ADP is converted into AMP-1 phosphate, but this cannot be recycled fast enough to keep up with ATP losses. The result is too much ADP and AMP-1 phosphate and not enough ATP. So any attempt to reduce fatigue and other related symptoms ought to include strategies for boosting your mitochondrial count and efficiency.
+- In addition, one important consideration for mitochondrial dysfunction is the concept of a “cell danger response,”
+- your mitochondria can sense danger, such as a pathogen, toxin, or excessive sympathetic nervous system activity initiated by stress, and in response release ATP into the extracellular matrix. The ATP can bind to receptors on the outside of the cells and trigger an immune response, leading to cytokine cascades and massive inflammation. When mitochondria get stuck in this process because the pathogens are still there or danger is still perceived, chronic fatigue syndrome and mitochondrial dysfunction can result because you have very little ATP left for energy production
+- HOW TO FIX YOUR HPA AXIS
+- This all has to do with your brain’s respiratory pacemaker, which consists of a cluster of neurons in the brain stem that affect breathing, emotional states, and alertness.
+- Short, rapid breathing stimulates the fight-or-flight sympathetic nervous system, while slow, deep breathing stimulates the rest-and-digest parasympathetic nervous system.
+- THE BEST-OF-THE-BEST BREATHING TECHNIQUES
+- 1. Buteyko Breathing
+- Buteyko breathing—named after the Russian physician who developed the technique—is based on the fact that when you stop mouth breathing and learn to engage in slow, whisper-like nasal breathing, you can oxygenate your tissues and organs far more effectively.
+- How can you learn to Buteyko breathe and reverse a mouth-breathing habit? The two best methods are the control-pause technique and nighttime mouth taping.
+- THE CONTROL-PAUSE TECHNIQUE (CP)
+- CP is a breath-hold after a normal exhalation of air until you experience the tiniest desire to breathe in.
+- To obtain an accurate measurement, rest for ten minutes before the exercise. Next, begin to breathe through your nose. After exhaling normally through your nose (not a full, deep exhalation), squeeze the tip of your nose with your fingers and look at a stopwatch. If you experience even the slightest inclination to breathe in or gasp air at six seconds, immediately let go. In this case, your CP is six seconds. If you have to take a big breath at the end of the breath-hold, then you held your breath for too long.
+- A good CP is thirty seconds, a very good CP is forty-five seconds, and Buteyko claimed that if someone had a CP of sixty seconds, then “he or she is insured against illness.”
+- A CP lower than thirty seconds indicates room for improvement, while a CP lower than fifteen seconds is indicative of symptoms such as respiratory issues, disordered sleep breathing, anxiety, and stress.
+- MOUTH TAPING
+- you tape your mouth prior to sleep to force your body to learn nasal breathing.
+- You will want to get 3M Micropore tape from Amazon or any medical supplies dealer, or a pre-cut mouth-shaped tape called Somnifix
+- Apply a small amount of an edible oil such as olive or coconut oil to your lips and the edges of your mouth—this will make it easier to roll back the tape during the night if you need to speak or cough—then apply the tape your lips.
+- 2. Box Breathing
+- close your mouth and slowly inhale through your nose for four seconds, hold your breath for four seconds, exhale through your mouth for four seconds, then hold the exhalation for another four seconds.
+- For 4-7-8 breathing, begin by placing the tip of your tongue against the ridge of tissue behind your upper front teeth. Quietly inhale through the nose for four seconds, hold your breath for seven seconds, then exhale audibly through your mouth, making a whooshing sound, for eight seconds. Repeat this cycle at least three more times.
+- 3. Kundalini Yoga Breathing
+- BREATH OF FIRE
+- inhale and exhale as quickly as you can—preferably through your nose—while pressing your belly out on the inhalation and in on the exhalation. (This technique is considered to be activating for the sympathetic nervous system, so you may want to avoid it if you are in a stressed-out state.)
+- SITALI BREATH
+- Sitali brings you into a centered, focused state of calmness.
+- Close your eyes, curl your tongue, and inhale through your open mouth. Then close your mouth and exhale through your nose.
+- ALTERNATE-NOSTRIL BREATHING
+- known as Nadi Shodhana Pranayama, is a potent stress-reducing tactic. Begin by pressing your thumb on your right nostril and gently breathe out through your left nostril. Next, gently breathe in through the left nostril, and then press the left nostril closed with a different finger. Remove your thumb from the right nostril and breathe out through the right nostril. Next, breathe in through the right nostril, close it with your thumb, lift your finger from your left nostril, and then exhale from the left nostril.
+- 4. Rhythmic Breathing
+- Whether you are lifting weights, running, or cycling, rhythmic breathing can be used to keep your body in a relaxed state no matter how hard you are moving.
+- When you are running or cycling, you want to inhale more than you exhale. When you are lifting weights, you want the lengths of your inhales and exhales to be equal.
+- If you are running or cycling, take one active, deep nasal breath in for every three foot strikes or pedal strokes and one relaxed, more passive nasal breath out on the next two foot strikes or pedal strokes. As you increase your intensity and go faster, you can continue this breathing pattern while speeding up the breath frequency by taking one deep breath in for two foot strikes or pedal strokes and one deep breath out on the subsequent foot strike or pedal stroke.
+- If you are lifting weights, take in a deep nasal breath, exhale as you lift the weight, then take in another deep nasal breath as you return the weight to its starting position.
+- 5. Decompression Breathing
+- Each movement incorporates the same basic decompressive breathing pattern, in which you inhale and expand your rib cage up and out to the sides of your chest. You then focus on keeping the rib cage expanded while you exhale, using your stomach muscles to expel the air from your lungs.
+- 6. Static Apnea Tables
+- These can be quite useful for training inspiratory and expiratory muscles, increasing breath-hold time, and even as a mini-workout on an easy recovery day.
+- A CO2 tolerance table is designed to accustom the body to high levels of carbon dioxide by reducing the duration of resting time between breath-holds.
+- In contrast, an O2 tolerance table is designed to accustom the body to extremely low levels of oxygen by prolonging the duration of breath-holds between resting periods.
+- 7. Breath-Hold Walks
+- Several afternoons each week, I duck out from writing and working in my home office and scramble up a steep hill through the forest to an old farm road that travels a mile out and a mile back. The road is dotted with telephone poles approximately one hundred yards apart. Every time I pass a telephone pole, I take one deep belly breath and hold it for as long as possible. Once I run out of oxygen, rather than gasping for air—which every muscle in my body desperately wants to do—I inhale only through my nose.
+- one other very interesting device I’ve discovered for these walks is a Counterpace. This combination heart rate strap and phone app plays a quiet metronome or timed music in sync with your heart rate, so that as you walk in time to the music, you match your step rate to your heart rate—for instance, a heart rate of 120 beats per minute and step rate of 120 steps per minute. By keeping your heart rate and step rate identical, you train your leg muscles to squeeze blood toward the heart exactly when it’s relaxing and most able to receive it.
+- 8. Holotropic Breathwork
+- You can’t do holotropic breathwork on your own or with some fancy phone app. Sessions are typically led by a certified holotropic breathwork facilitator, often in a two-to-three-hour group session.
+- (You’ll find guidelines and recommendations for finding a certified holotropic breathwork facilitator at www.holotropic.com/holotropic-breathwork/facilitator-listing.)
+- 9. Basic Wim Hof Breathing
+- It consists of thirty cycles of continuous breathwork, with no pauses between each inhalation and exhalation. Each exhalation should be relaxed—meaning you should not fully exhale but should instead leave some air in the lungs, so that you breathe in more oxygen than you breathe out. At the end of thirty breath cycles, exhale and hold your breath for as long as possible with no air in your lungs. You will eventually get the urge to breathe. At that point, inhale and hold your breath for a final fifteen to thirty seconds, or for as long as you can. You can squeeze your forehead a little to
+- Repeat this process, starting with thirty breath cycles again, for two or three rounds.
+- To complete the routine, take one more deep recovery breath to restore normal oxygen levels.
+- 04 EAT YOURSELF SMART
+- BRAIN FOOD 101
+- you are, at a fundamental level, made of fat. Every living cell in your body has a membrane responsible for allowing compounds to move in and out of the cell so it can function properly. These membranes are primarily formed from the fats you consume.
+- If your diet is high in damaged fatty acids, like those found in corn, canola, safflower, or sunflower oil, or if your diet is high in trans fats, or if the fish oil you take is rancid and exposed to too much light and heat, or if your steak is a slab from a big ole corn-and-grains-fed cow, then those damaged fats get incorporated into the building blocks of your cell membranes—including those of your neurons.
+- Hidden Rancid Oils in Common Health Foods
+- Pasteurized dairy products, such as commercially produced milk, cheeses, butter, and, yes, even many organic yogurts
+- Many big-name trail mix blends, often marketed as high-protein, low-sugar trail snacks
+- Many brands of organic nut spreads, such as almond butter, cashew butter, and peanut butter
+- Store-bought bags of peanuts, almonds, cashews, and other nuts, including many of the nut mixes in the bulk food section of the grocery store
+- Gluten-free or organic cereal bars, granola bars, and many protein bars
+- Premade packaged popcorn, especially cheddar-flavored and caramel popcorn
+- Check labels!
+- A consistent intake of these fats leads to chronic inflammation.
+- According to many nutritionists and scientific studies, sugar is the most inflammatory aspect of any diet. High sugar intake is indeed inflammatory, but it is not as terrible as consistent processed-oil consumption.
+- Processed oils like canola or vegetable oil are polyunsaturated fats, which are molecularly unstable and prone to cell-destroying oxidation.
+- Oxidants are reactive molecules that are used to transfer electrons from one atom to another. They are naturally produced both inside your body and the environment, but in excess they can react with other cellular molecules in your body, such as proteins, DNA, and lipids, often contributing to disease and inflammation in the process. (This is why antioxidants are so important—they help prevent oxidation-related damage.)
+- to limit the potential damage that seed oils like canola, sunflower, and safflower oil can cause to your cell membranes, consider the advice of Dr. James DiNicolantonio, author of Superfuel, who says that supplementation with 20 g of glycine (preferably split into four servings of 5 g each) and 2 to 5 g of spirulina can significantly help mitigate the damage.
+- 9 FOODS THAT BREAK YOUR BRAIN
+- 1. Histamine- and Oxalate-Containing Foods
+- Histamines are compounds released by mast cells, a type of white blood cell that tends to proliferate as part of an immune response to stressors like cuts, scrapes, and allergens. Once released, histamines dilate blood vessels and increase blood flow to the stressed area (such as your nasal cavities during allergy season), resulting in inflammation.
+- Excessively high histamine levels can cause brain fog and headaches, especially in those sensitive to histamines.
+- For stabilizing mast cells, Dr. Nathan’s typical starting point is 500 mg of quercetin taken thirty minutes before each meal and at bedtime (for a total of 2,000 mg per day).
+- avoid foods that contain high levels of histamines.
+- including the following:
+- Fermented foods, such as sauerkraut, vinegar, soy sauce, kefir, and yogurt. I eat these foods but treat them more as condiments than as major components of my diet.
+- Vinegar-soaked foods, such as pickles and olives
+- Cured or smoked meats, such as bacon, salami, hot dogs, and smoked fish
+- Soured foods, such as sour cream, sour milk, and buttermilk
+- Dried fruit
+- Aged cheeses
+- Peanuts
+- Leftovers, especially when they’re more than a few days old. (This is a good reason not to eat at a restaurant on a Sunday or Monday, which are typically the two days of the week when a restaurant serves the least-fresh food.)
+- Instead, consume foods with lower amounts of histamines, such as the following:
+- Freshly cooked meat, fish, and poultry (not smoked, cured, or preserved)
+- Eggs
+- Low-gluten grains, such as amaranth, buckwheat, millet, quinoa, sorghum, teff, and rice (brown, white, and wild)
+- Fresh fruits, such as mangos, pears, watermelons, apples, kiwis, cantaloupes, and grapes
+- Fresh vegetables (not canned or preserved)
+- Extra-virgin olive oil and coconut oil
+- Leafy herbs, such as parsley and cilantro
+- Herbal teas
+- Although it tends to fly under the radar, many people are now discovering the benefits of limiting oxalates in their diet, which seems to provide relief from symptoms of inflammatory conditions, autoimmune issues, mineral deficiencies, and perhaps even autism.
+- Many of the symptoms of oxalate sensitivity overlap with those of histamine sensitivity, and if the elimination of histamines does not relieve your issues, you may want to consider also limiting oxalate-rich foods, including beer, beets, chocolate, coffee, spinach, nuts, tea, and soy.
+- 2. Glucose-Fluctuating Foods
+- Within your brain are cells called microglia and astrocytes. When these cells are frequently exposed to high amounts of sugar and blood glucose fluctuations, it can cause chronic neuroinflammation, neuronal loss, and progression in dementia and Alzheimer’s disease.
+- High blood glucose levels increase not only astrocyte-induced neuroinflammation but also the susceptibility of your neurons to injury.
+- Technically, a high-carbohydrate diet has more than 45 percent of calories coming from carbohydrates
+- A moderate-carbohydrate diet has 26 percent to 45 percent of calories from carbs.
+- A low-carbohydrate diet, in contrast, needs to include less than 130 g of carbohydrates per day, which is less than 26 percent of a typical 2,000-calorie-per-day diet (although I personally consider hard-training athletes who eat 150 to 200 g of carbohydrates per day to easily be in low-carb mode).
+- A very-low-carbohydrate diet or a ketogenic diet typically includes only 20 to 50 g per day of carbohydrates, or less than 10 percent of daily calories.
+- these percentages can vary widely, especially if you are a highly active individual or an athlete engaged in multiple workouts, practices, scrimmages, or competitions in any given week. Very active people often need to pay closer attention to ensuring they consume adequate carbohydrates to keep their liver and muscle glycogen stores topped up, and to maintain joints and other tissues that require glucose.
+- Ideally, these individuals should consume carbohydrates before, during, or after physical activity, when they are far less likely to cause wild glucose fluctuations.
+- while a diet that limits glucose fluctuation is important, don’t get me wrong: your brain does indeed need some amount of glucose.
+- every mammalian brain depends on glucose as its main source of energy, and tight regulation of glucose metabolism is critical for brain physiology.
+- 3. Artificially Sweetened Foods
+- many artificial sweeteners are known to be neurotoxic.
+- If you do opt for alternative sweeteners, the best options are stevia and monk fruit extract.
+- 4. Condiments
+- As you may already know, most condiments (think soy sauce, mustard, and your average salad dressing) contain high amounts of salt.
+- Excess sodium can cause hypertension (high blood pressure), a condition that results in your blood vessels, including those in your brain, growing narrow and weak.
+- Natural salt, such as mineral-rich Aztec or Celtic salt, is quite good for you and is necessary for healthy cellular activity.
+- (I’m often asked “Why not Himalayan salt?” and the answer is simple: it tends to be higher in heavy metals and other contaminants.)
+- What you need to do is increase your potassium and magnesium intake.
+- There is less conclusive evidence on the efficacy of magnesium compared to potassium in reducing blood pressure, but much of the evidence that does exist is positive
+- 5. Trans Fats
+- Small amounts of trans fats, a form of unsaturated fatty acids, occur naturally in some meat and dairy products, such as beef, lamb, and butter.
+- But most trans fats these days are industrially manufactured and are found in manufactured spreadable oils, where they form as a by-product of hydrogenation.
+- Just about any spreadable oil found on grocery store shelves, such as margarine, frosting, or vegetable shortening, contains extremely volatile and highly oxidative trans fats—and most premade cakes, cookies, pie crusts, and crackers contain vegetable shortening, making them rich in trans fats.
+- High blood levels of trans fat have been directly associated with poor cognitive function and low brain volume, along with heart disease, cancer, type 2 diabetes, low birth rate, obesity, immune dysfunction, impaired memory, and increased brain inflammation.
+- Trans fats also increase oxidative stress and promote endothelial dysfunction, which results in vascular damage that limits blood flow and the delivery of energy substrates to cells and tissues.
+- Since memory is particularly sensitive to poor cellular energy delivery, trans fats can significantly reduce memory function.
+- 6. Gluten
+- Gluten is a general term for the proteins found in wheat, including wheat berries, durum, emmer, semolina, spelt, farina, farro, and graham flour, as well as in rye, barley, and triticale (a cross between wheat and rye).
+- Gluten acts as a glue to help foods maintain their shape, but because of its inherent stickiness and ability to create digestive difficulties, gluten has become the ultimate pariah among health enthusiasts and hippies.
+- Even if you don’t have an intolerance or allergy to gluten, or if it doesn’t seem to cause perceivable gut issues, gluten can still damage your brain.
+- Fortunately, you can minimize the effect of gluten on your brain and the rest of your nervous system.
+- Through the process of slow fermentation, sourdough lactobacilli and fungal enzymes called proteases can eliminate gluten and, as a bonus, also reduce the bread’s glycemic index—how quickly and how much it raises blood sugar.
+- Sprouting is also another grain-preparation technique that may reduce the effects of gluten.
+- Sprouting also releases vitamins, minerals, and other bioactive components that are unavailable for absorption in the unsprouted grain.
+- eat gluten-containing grains only when they are prepared via ancestral processes such as fermentation and sprouting, think twice before snagging any old “healthy” goodie from the organic coffee shop, and support your ability to digest gluten by limiting your gut’s exposure to chemicals such as pesticides and herbicides.
+- You can also take supplements like Gluten Guardian or gluten polypeptidases to help break down the gluten you do eat.
+- 7. Foods High in Heavy Metals
+- avoid frequent consumption of foods that are high in heavy metals, including these: • Fish, especially larger fish or predatory fish such as king mackerel, bigeye tuna, sharks, and swordfish (mercury) • Processed or powdered bone broth from nonorganic sources (lead) • High amounts of brown rice (arsenic) • Refined wheat flour (cadmium) • Soft drinks from soda fountains (the machine may have cadmium in the pipes) • Canned foods (lead)
+- If you want to test for heavy metals, you can get a Nutrient and Toxic Elements blood test from Genova Diagnostics, which will test for aluminum, arsenic, cadmium, lead, and mercury, as well as potassium, magnesium, calcium, zinc, copper, and selenium.
+- Another good test is one from Doctor’s Data called a urine provocation test,
+- Another urine test is the Doctor’s Data urine porphyrins test, since abnormal levels of urinary porphyrins are associated with high-level exposure to toxic chemicals or metals.
+- the Great Plains Laboratory offers a hair test for metal toxicity and mineral deficiency.
+- The problem with most tests is that they depend on your body’s ability to excrete metals, and since most people with heavy-metal toxicity have compromised detoxification ability, testing can show low levels of metals even when someone is highly toxic.
+- use a variety of tests to get an accurate picture
+- 8. Meals That Are High-Fat and High-Carb
+- Lipopolysaccharides (LPS) are toxic molecules found in the outer membrane of gram-negative bacteria.
+- the difference between gram-negative and gram-positive bacteria is that gram-positive bacteria lack this outer membrane. Gram-negative bacteria include E. coli, Neisseria gonorrhoeae, and other well-known pathogens.)
+- LPS are classified as endotoxins—whereas exotoxins are released by bacteria, endotoxins are contained within the cell membrane until it is destroyed, at which point the endotoxin is released.
+- When blood endotoxin levels get too high, they cause metabolic endotoxemia, a condition associated with cardiovascular disease, chronic inflammation, type 2 diabetes, lipid abnormalities, insulin resistance, nonalcoholic fatty liver disease, obesity, and stroke.
+- Interestingly, one of the contributing factors to a higher risk of LPS-induced metabolic endotoxemia is a high-fat diet.
+- Problems arise when you consume lots of fats alongside lots of carbohydrates—the classic potato chip, pork rind, cheesecake, baked goodie, follow-up-your-rib-eye-steak-with-a-chocolate-soufflé type diet.
+- if one of your favorite meals (like mine) is a nice, fatty cut of rib-eye steak with sweet potato fries, you want to go easy on the fries, especially if your primary objective is cognitive enhancement.
+- How does endotoxemia happen? High-fat, high-carbohydrate meals are known to raise the levels of reactive oxygen species and inflammatory cytokines, leading to oxidative stress and inflammation.
+- Consuming a high-fat, high-carbohydrate meal may also increase the permeability of your intestinal wall due to damage caused by the LPS.
+- if you consume fats and carbohydrates together, it could potentially set off a chain reaction that results in brain damage or neuroinflammation.
+- 9. Moldy Foods
+- Some of the most harmful components of certain molds are mycotoxins, toxic substances that are capable of causing damage to the brain, along with disease and death, in both humans and animals.
+- High amounts of indoor mold exposure can alter blood flow to the brain, affect autonomic nerve function and brain waves, and diminish concentration, attention, balance, and memory. It can impair the cognitive development of young children and cause hemorrhagic infarcts (areas of dead tissue caused by blocked veins) in the brain.
+- for most people, the primary source of mycotoxins isn’t household mold: it’s diet.
+- For example, commercially grown corn is typically heavily sprayed with pesticides that can cause a mutation in fungi that colonize corn. These mutated fungi grow in corn roots and pump toxins directly into the plant.
+- it is important not to confuse “moldy” with “fermented.” You are not necessarily exposed to mycotoxins if you eat fermented foods such as cheese, pickles, buttermilk, sour cream, and smoked fish.
+- for candida overgrowth, mold infection, and even Lyme disease, you should be eating a low-carb, low-sugar diet, because carbohydrates, particularly sugar and fruit, feed candida and many other fungal species.
+- Supporting Detox with Binders
+- Binders latch on to chemicals and toxins, such as bacteria, heavy metals, or mold, rendering them inactive and making it…
+- The following is a short list of some of the most…
+- Activated…
+- Activated charcoal has been shown to effectively absorb pesticides and herbicides, mold toxins, endotoxins, and more. It can also remove inflammatory molecules associated with a hyperactive immune response, such as interleukins and tumor necrosis factor…
+- Bentonite…
+- It also has antibacterial properties and a healing effect on the…
+- Chitosan promotes the growth of the good gut bacteria bifidobacteria and lactobacillus, and it can bind to bile salts that emulsify fat, so it can reduce fat absorption from a high-fat meal. It also binds and removes toxins present in bile salts, metals, polychlorinated biphenyls (PCBs), phthalates, and bisphenol A (BPA). It…
+- can be found in several supplements, including one made by…
+- It delivers insoluble thiol groups that bind to and eliminate mercury and…
+- Aloe vera and…
+- Both aloe vera and acacia gum can ease the constipation that often occurs…
+- The bifidobacteria that the acacia feeds can lower endotoxin levels, normalize gut function,…
+- Aloe vera has a soothing effect on the gut and has a long history of use for gastrointestinal disorders associated with inflammation, including peptic ulcers,…
+- There is no universal binder that works equally well on all toxins, so your best bet may be combining the binders listed here for a…
+- ochratoxins appear to be bound best by compounds such as cholestyramine and activated charcoal; aflatoxins are bound by activated charcoal and bentonite clay; trichothecenes are bound by activated charcoal, chlorella, and bentonite clay; and gliotoxins are bound by bentonite clay,…
+- A mold and mycotoxin test from a website like SurvivingMold.com can help pinpoint which toxins you have and therefore help…
+- research does indicate that antioxidants such as superoxide anion scavengers (enzymes that mop up free radicals in the body) can minimize the impact mycotoxins have on your body. Vitamin A, vitamin C, selenium, and glutathione are all good…
+- Other strategies to eliminate mycotoxins include consuming binders such activated charcoal, sweating in a sauna, and eating garlic or supplementing with…
+- the limbic system, a group of structures in the brain that are particularly involved with emotion, including the amygdala, which is primarily responsible for how you process emotions.
+- One of the best methods for restabilizing the limbic system is a program designed by author and speaker Annie Hopper called Dynamic Neural Retraining, which uses mental exercises to rewire the limbic system (visit retrainingthebrain.com to learn more).
+- To test for mold in your body, I recommend two options: (1) urine testing via the Real Time Laboratory or the Great Plains Laboratory,
+- (2) the GENIE (Genomic Expression by Nanostring: Inflammation Explained) test from SurvivingMold.com,

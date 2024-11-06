@@ -1,0 +1,243 @@
+# Urban Tantra, Second Edition: Sacred Sex for the Twenty-First Century
+
+- in Tantra. A person’s nondominant eye (the left eye if the person is right-handed, the right eye if they are left-handed) is considered the gateway to the soul.
+- Tantra teaches us that by embracing everything in life and delving into it totally, anything can be turned into a transformative, ultimately ecstatic, experience.
+- What Is Tantra, Anyway?
+- Tantra views life itself as an ongoing process of creation, an ongoing marriage of consciousness and energy at every level of existence. The very essence of Tantra is contained in a few words—an excerpt from the Vishvasara Tantra: What is Here is Elsewhere. What is not Here is Nowhere.
+- some root principles remain constant: Tantra is first and foremost a personal practice of liberation. Tantra views both the human body and earthly life as concrete manifestations of divine energy. The Tantric belief that to experience sexual excitement is a taste of divine energy is a profound and revolutionary thought, as relevant today as it was in the past.
+- WHAT TANTRA IS AND WHAT IT ISN’T
+- Sometimes I think there are just two kinds of people in the world: those who want to be right and those who want to be happy. It is impossible to satisfy people who want to be right unless you give them exactly what they want, exactly the way they want it. On the other hand, it is very easy to satisfy people who want to be happy.
+- Why Ecstasy Is Necessary
+- Osho, the visionary (and controversial) spiritual teacher, explains how sex brings us to bliss: Because of three basic elements in sex, you come to a blissful moment. Those three are, first: timelessness. You transcend time completely. There is no time. You forget time completely; time ceases for you. Not that time ceases, it ceases for you; you are not in it. There is no past, no future. This very moment, here and now, the whole existence is concentrated. This moment becomes the only real moment… Secondly: in sex, for the first time, you lose your ego, you become egoless….You are not, neither is the other. You and your beloved are both lost into something else. A new reality evolves, a new unit comes into existence in which the old two are lost—completely lost… And thirdly: for the first time, in sex you are natural. The unreal is lost, the facade, the face is lost; the society, the culture, the civilization is lost. You are a part of nature—as trees are, animals are, stars are….You are in a greater something—the cosmos, the Tao….You are just floating, you are taken by the current.
+- PLEASURE VS. ECSTASY
+- The sensations of pain and pleasure are created in the body and belong to the body. Ecstasy is bodiless. It is experienced as overwhelming delight and/or inspiration.
+- Ecstatic bliss, in its purest Tantric definition, is not a feeling or a sensation. It’s a metaphysical experience that occurs when all feelings, thoughts, and sensations are eclipsed by boundaryless beingness in a vast ocean of energy where everything is connected to everything else.
+- ADRENALINE IS NOT ECSTASY
+- Most of us live and work in a world built upon the pursuit and eventual attainment of order, logic, and success.
+- We spend our days trying to do more to get more and have more.
+- For all our running and grasping and striving, despite all the information instantly available to us, there’s something we can’t quite find, a connection we just haven’t made, something we just haven’t figured out yet.
+- We get a taste of it when we’re right in the center of the swirling vortex of a project on deadline. We feel invincible.
+- We are in the “zone”—it’s all happening and it’s all happening right.
+- but it’s not ecstasy. That’s adrenaline.
+- Be Here Now
+- All consciousness really means is that you are in a relaxed state of awareness with a quiet mind able to focus gently and easily on what’s going on at the present moment.
+- if you are focusing most of your attention on the fantasy running in your head instead of on the person you are with, you are not engaged in a conscious sexual encounter.
+- There are a few simple techniques you can use to start to be more aware, right here, right now.
+- BREATHE
+- Our first step in learning to be more alive and in the moment is to breathe more fully.
+- The next time you are feeling really good, notice how you are breathing. The next time you are feeling angry or sad, notice how you are breathing.
+- Breathing with someone is useful not only in sexual situations. Any time you want to be in an empathetic relationship with someone, simply match your breathing to theirs, and you will begin to have a pretty good sense of how they are feeling.
+- CHANGE YOUR MIND
+- Every thought you think is creating your future.
+- We can always change our minds, but there are situations in which we might not choose to change our behavior.
+- Repeat often: “I make no judgments, I make no comparisons, and I delete my need to understand.”
+- sex is a lot more satisfying when your intention—either to give or to receive—is clear.
+- most people find it much easier to give than to receive. Most of us seem to carry some sort of automatic guilt alarm that goes off when we are receiving pleasure. The irony of this is that the vast majority of people love giving to receptive, willing partners who are truly enjoying themselves. So in trying to give back while someone is trying to give to us, we are actually depriving our partner of the pleasure of being able to go totally into the experience of giving.
+- Conscious receiving is about staying awake and completely present in the moment, asking for what you want, and giving your partner feedback along the way.
+- Giving is about asking your partner what she or he would like to receive, and then agreeing on what you are or are not willing to give. Giving is staying present and asking for feedback, such as, “Would you like that a little harder?” or “Is that too ticklish for you?”
+- Know Thy Chakras, Know Thyself
+- Tantrikas believe that our life-force energy is the Kundalini spiraling up our chakras. In Tantra, we view the body in energetic as well as physical terms. The mind, body, and spirit are all connected and engaged in every aspect of our lives, including sex.
+- THE SEVEN CHAKRAS
+- In Sanskrit, the word chakra simply means “wheel.”
+- Chakras are seen—by people who can see such things—as spinning spirals of energy in the etheric body (which is located outside the physical body, about six inches to the front and back), approximately in the same areas as the glands of our endocrine system.
+- The first three chakras—the lower chakras—are concerned mostly with the physical world. They vibrate at slow speeds and their associated sounds are low in pitch.
+- The higher chakras—five through seven—are more connected to the nonphysical world. These chakras vibrate at faster speeds and their sounds vibrate at increasingly higher pitches.
+- The fourth chakra is the bridge between the two worlds.
+- THE FIRST CHAKRA
+- known in Sanskrit as Muladhara.
+- It is located on the perineum between the anus and the genitals.
+- Color: red Sound: low in pitch; C on the Western musical scale Physical focal points: base of the spine, legs, feet, rectum, and immune system Metaphysical aspects: grounding and survival
+- The first chakra is concerned with security and survival—the
+- Weaknesses in this chakra will manifest physically in the lower back (sciatica, for example); in problems with the hips, legs (including varicose veins), knees, and feet; and as colon cancer and immune system disorders.
+- emotional consequences when a chakra is stressed. In the first chakra, these are related to home and belonging. You may not feel safe at home or you may have a fear of being homeless. You may fear that you will lose your job, therefore your income, therefore your home. You may feel overly possessive of your lover, believing that if your lover leaves, you will die. Or you may have trouble making your ideas take physical form. Any of these may result in depression.
+- Here are some affirmations to strengthen this chakra: I let life provide everything I need. I always have the perfect home and I am perfectly at home wherever I am. I am safe.
+- THE SECOND CHAKRA
+- Known as Svadhistana, the second chakra is located at the lower abdomen, just below the navel.
+- Color: orange Sound: low in pitch, one step higher than the first chakra; D on the Western musical scale Physical focal points: pelvis, ovaries and uterus, testes and prostate, lower intestine, and bladder Metaphysical aspects: sexuality, relationships, creativity, and power
+- most commonly referred to as the sex center, issues of power and control also dominate this chakra, specifically power and control over the outside world.
+- this is the chakra that provides the impetus from which you conceive not only a child but also the plans, desires, and dreams for all aspects of your life
+- Challenges to this chakra include nonconsensual sex (such as rape, incest, and sexual assault) and events energetically similar to those. For instance, not everyone has been raped, but everyone has experienced having their boundaries violated or felt a lack of privacy.
+- Money is also a factor in the second chakra, but here the money issues are about relationships and power.
+- Lower back pain—a first chakra issue because of its connection to security—is also a symptom of a financial imbalance in relationships, so it appears in this chakra as well as the first.
+- Here are some things you can do to nourish this center: Talk about sex with the intention of releasing shame Deep-tissue massage Belly dancing Exhilaration Meditation and Cathartic Meditation (see chapter 5) Reichian therapy
+- THE THIRD CHAKRA
+- Also known as Manipura, the third chakra is located at the solar plexus.
+- Color: yellow Sound: medium-low in pitch; E on the Western musical scale Physical focal points: stomach, pancreas, adrenals, gall bladder, liver, and upper intestines Metaphysical aspects: self-esteem, courage, and trust
+- The third chakra is associated with self-respect, self-confidence, and emotions. Fear and anger are the emotions we are most likely to hold in this chakra.
+- The third chakra is also the lower chakra of intuition. It’s not where we pick up the higher intuitive whisperings of our soul (that’s handled in the sixth chakra), but rather those gut feelings that tell us how to move through the physical world safely.
+- THE FOURTH CHAKRA
+- The fourth chakra, or Anahata, is located at the center of the chest, above the breast. It is also known as the heart chakra.
+- Color: green Sound: mid-range in pitch; F on the Western musical scale Physical focal points: chest, thymus, heart, lungs, breasts, arms, and hands Metaphysical aspects: compassion and love
+- The emotional challenges of the heart chakra are resentment, guilt, and grief.
+- We spend our lives learning to love. Some of the lessons are more challenging than others.
+- THE FIFTH CHAKRA
+- Also known as Vishuddha, the fifth chakra is located at the throat.
+- Color: blue Sound: mid to high in pitch; G on the Western musical scale Physical focal points: throat, thyroid, mouth, gums, and teeth Metaphysical aspects: communication, creativity, and choice
+- The fifth chakra is the creative chakra of the upper four chakras. It is the center of our creative expression, of the spoken word, of action, and of choices and will.
+- Perhaps the ultimate imbalance of this chakra of choices and will is addiction. It is no surprise that addictions are so prevalent in society right now. Our entire culture seems caught in a tug-of-war between the loving thing to do (heart) and the practical thing to do (mind). This conflict trickles down to each of us in countless ways every day.
+- THE SIXTH CHAKRA
+- Also known as Ajna, the sixth chakra is located at the forehead, between the eyebrows. This chakra is also called the “third eye.”
+- Color: purple Sound: high in pitch; A on the Western musical scale Physical focal points: brain, pineal gland, eyes, ears, and nose Metaphysical aspects: intuition and wisdom
+- The sixth chakra reveals your highest intuitions, insights, and visions.
+- This chakra is nourished when you are encouraged and permitted to follow your intuition.
+- When the sixth chakra is out of balance, the mind tries to take over the job of the psychic center, and logic overcomes your intuitive voice.
+- The challenge and secret to this chakra is the integration of conscious and unconscious insights.
+- The physical challenges of this chakra are strokes, brain tumors, blindness, deafness, learning disabilities,
+- THE SEVENTH CHAKRA
+- Also known as Sahasrara, the seventh chakra is located at the top of the head. It is also called the “crown” chakra.
+- Color: white Sound: very high in pitch; B on the Western musical scale Physical focal point: pituitary gland Metaphysical aspects: bliss, higher love, and spirituality
+- The seventh chakra is the chakra of the ultimate orgasm: death by complete surrender, death and ultimate bliss.
+- Death in this sense is usually a symbolic death—often a death to the feelings of separation, releasing you to the next level of spiritual maturity.
+- The seventh chakra is the door to the Collective Unconscious, and when it is open, it is your connection with All That Is.
+- In order to have a strong, open crown chakra, we need to regard death as powerfully and positively as we regard birth.
+- The disorders connected with the crown chakra are more energetic than physical. When they do manifest physically, they tend to be mysterious and hard to diagnose, such as chronic exhaustion; listlessness and disinterest in life; and extreme sensitivity to sound, light, or other environmental factors.
+- SEX AND THE CHAKRAS
+- Wake Up Your Body, Calm Your Mind, and Free Your Spirit
+- In this chapter, we’ll look at three of the easiest and most powerful paths to pleasure: breath, meditation, and silliness.
+- THE BASICS OF BREATH
+- A New Way to Breathe
+- mouth breathing is a charging mechanism. We breathe through the mouth when we need or want more oxygen—for pleasure as well as survival.
+- Nose breathing is calming.
+- FOUR CONSCIOUS BREATHS
+- Practice each of the following breaths for five to ten minutes at a time, with the exception of the Breath of Fire, which you should practice only for a minute or two at a time.
+- While you practice, keep in mind these general guidelines: Keep your eyes open and focused gently at a point across the room so that you stay focused on your breathing and don’t nod off or space out. Set a timer so that you don’t have to keep track of the time. When your time is up, take three deep breaths, and then just breathe normally. Notice how you feel after each of the four conscious breaths. Breathe through your mouth while you are learning each breath (except for the Breath of Fire, which is always done through the nose). When you become familiar with the breaths, you can experiment with nose versus mouth breathing.
+- The Bottom Breath
+- Practice for five to ten minutes.
+- Bottom breathing is a gentle, easy way to calm you down and open up your senses. It’s the ideal breath to use when you want to move out of the busy or stressful state of doing into the easy, relaxed awareness of being.
+- Sit on the floor with your legs crossed (or on a hard-backed chair with your feet flat on the floor) and your spine straight. With your hands, pull the fleshy part of your buttocks aside so that you are sitting on your sit bones. (Once you learn the breath you can do it in any position.)
+- Place your hands on your belly. Relax your belly. Just let it go. Let it be round in your hands.
+- Begin by exhaling all the air out of your lungs.
+- Then, as you inhale through your mouth, very gently push out on the anal sphincter. Imagine that your anus can “kiss” the floor or the seat of the chair.
+- On the exhale, don’t do anything. Don’t contract your anus; don’t hold it; don’t push. Do nothing. Just let go.
+- Repeat. On the inhale, push out with the anal sphincter; on the exhale, do nothing.
+- The Circular Breath
+- Practice for five to ten minutes.
+- The essence of the Circular Breath is breathing in a continuous flow, with no break or pause between the inhale and the exhale. The inhale flows effortlessly into the exhale, which flows seamlessly into the next inhale. You can do this breath sitting, standing, or lying down.
+- Breathe gently through your mouth, keeping your jaw relaxed and your lips slightly parted.
+- Feel the back of your throat open and relax. Do not force or push the breath. The inhale will require a bit more effort than the exhale, which should just gently fall out.
+- Imagine your breath making a complete unbroken circle.
+- Some variations on the Circular Breath include breathing in through your nose and out through your mouth, and visualizing an unbroken figure eight instead of a circle.
+- The Breath of Fire
+- Practice for no longer than one to two minutes.
+- This rapid, continuous breath is done entirely through the nose. It can be done in any position, but it’s best learned standing or sitting up with a straight spine. The emphasis of this breath is on the exhale.
+- Exhale. As you exhale, push the air out by rapidly pulling your navel to your spine.
+- To inhale, simply release your navel outward. The breath fills your lungs automatically.
+- Put your hand on your diaphragm to focus your attention there and to feel the power of this breath.
+- Begin with one breath every two seconds; work up to one or two breaths per second.
+- The Heart Breath
+- Practice for five to ten minutes.
+- Yawn. Feel how the yawn opens the back of your throat and stretches out your whole mouth and face? That’s the feeling of openness you want when you do the Heart Breath.
+- Breathe. Let your mouth fall open slightly. Relax your jaw and face, open the back of your throat, and breathe in through your mouth, gently but fully.
+- Exhale. Don’t push the breath out; just let it fall out with a gentle little sigh, ahh.
+- Take in a much air as you can, as effortlessly as you can, then let it go.
+- [Note: At first this breath can feel like it doesn’t reach much lower than the upper chest—it’s one of the reasons I named it the Heart Breath. After you’ve been breathing for minute or two you’ll probably feel it get bigger, deeper, and wider.]
+- MEDITATION
+- the process of meditation is more commonly an exercise in trying to meditate—that is, trying to gently pry the mind away from the dozens of thoughts that demand its attention and direct it back to the breath, the chant, or the flame.
+- relaxed, energized awareness is precisely the state we would like to be in when we want to enjoy conscious sex.
+- THE POWER OF SILLINESS
+- Silliness had power when we were children. Not only could it make us feel terrific, but it also was often contagious and had the potential to reduce even the most dour of adults to occasional spells of ridiculousness themselves. It was divine.
+- We will do almost anything to avoid looking silly or ridiculous. And that’s not only tragic, it’s, well, silly.
+- WITNESSING
+- To notice just how busy and stubborn your mind can be, try practicing the technique of witnessing. When you witness your thoughts, you notice them, but you do not engage them. It’s like lying on your back in a meadow on a breezy day and watching the clouds float by. You just notice that there are clouds (your thoughts) and what they look like.
+- Witnessing can also be useful for creating distance between yourself and your feelings. When I am extremely sad, angry, or fearful, I try to remember that I am not my emotions. I am me and I am safe no matter how painful the situation might be.
+- When I can let my painful thoughts glide by without getting sucked into them, I can calm down and get some clarity. Then I may still choose to continue to cry or scream or run, but I have made the conscious choice to do these things, and that feels altogether lighter, easier, and safer. I am doing the feeling; the feeling is no longer doing me.
+- THE EXHILARATION AND CATHARTIC MEDITATIONS
+- Exhilaration Meditation
+- Wear comfortable, loose clothing, or no clothes at all. Although you can do the meditation with eyes open or closed, I recommend closing your eyes. If you live in a small space and fear that you’ll crash into things, simply plant your feet and shake or dance in place.
+- Part one (five to fifteen minutes). Shake. Begin by making yourself shake. Shake your arms, hands, belly, thighs, legs, and face.
+- Add gibberish. As you continue shaking, make sounds. Start with one repeated syllable, such as blah, blah, blah, blah, blah or yak, yak, yak, yak, yak. Let the syllables change and multiply until it seems you are speaking a make-believe language. Let the gibberish be fun. Enjoy the feeling of vibrating on the inside and on the outside at the same time.
+- Part two (five to fifteen minutes). Dance.
+- Dance any way you feel like. Move from your core.
+- Add whirling. After you have been dancing for a while (and only if you have not eaten in the past couple of hours) whirl to your left or your right. Keep your eyes open slightly, but let them be unfocused. Start slowly, then speed up. When you begin to feel dizzy, slow down and whirl in the opposite direction, or close your eyes and return to dancing. A little whirling produces a big effect. Whirl sparingly!
+- Part three (ten to twenty minutes). Keeping your eyes closed, sit or lie down and be still.
+- Cathartic Meditation
+- Just make sure you have a relatively empty stomach. This meditation is best done with eyes closed or wearing a blindfold.
+- Part one (four to ten minutes). Breathe forcefully and rapidly through the nose, focusing on the exhalation. The inhalation will happen automatically.
+- your breath can be more chaotic.
+- The purpose of this part is to build energy that you will release in the next part.
+- Part two (four to ten minutes). Release your inner two-year-old! Clench your fists and jump up and down while yelling “NO!” with each jump. After several minutes of “NO!” unclench your fists and raise your open hands to shoulder height. Keep jumping, but this time yell “YES!” on each jump. Yell “YES!” with the same force and intensity that you have been yelling “NO!”
+- Part three (four to ten minutes).
+- Release your inner kung fu fighter. Stand in a power stance with knees bent and feet a bit more than shoulder-distance apart. Tilt your pelvis back and tighten your abdominal muscles and your buttocks until you feel strong and invincible. Now throw karate chops in front of you, releasing a powerful karate yell with each karate chop.
+- Part four (four to fifteen minutes). Stop! Immediately place your body in a manageable sitting or standing pose and then do not move. Do not rearrange your body, just let it be. Focus on your breath or on your heartbeat. Simply witness whatever happens.
+- Part five (four to ten minutes). Laugh. Begin with a smile. Let the smile grow wider until it becomes a giggle. Let the giggle grow until it becomes laughter. Then let the laughing laugh you. Become laughter.
+- You can do the Cathartic Meditation without risking eviction for noise violations with these modifications: in part two, yell “NO!” and then “YES” silently inside yourself; and in part three, you can throw karate chops with a sharp exhale instead of a yell.
+- How to Touch
+- in Tantra, we want to go a step further. We want to become the touch. To do that, we need to find the narrow realm of touch that lies between too much pressure and too little. When you touch the body, you want to touch deeply enough that the body pushes back just a little. If a muscle becomes rigid under your touch, you’ve gone too far. If the muscle feels flaccid, you haven’t gone far enough.
+- THE RESILIENT EDGE OF RESISTANCE
+- Sex that is too soft is vapid; sex that is too hard is assaulting. We want to learn to dance on the Resilient Edge of Resistance because that’s where the real pleasure is.
+- Most people touch the way they like to be touched, which may not be how someone else likes to be touched at all.
+- Practice by petting a cat or a dog. Pets give great feedback. If they stick around and beg for more, you’ve found their Resilient Edge of Resistance.
+- THE RESILIENT EDGE OF RESISTANCE APPLIES TO MORE THAN TOUCH
+- Sexual Energy: What It Is and What to Do with It
+- Sex is an energy that exists on its own. All you have to do is notice it and it will start to move.
+- There isn’t any difference between sexual energy and creative energy, or between sexual energy and going-to-work energy, or between sexual energy and taking-out-the-trash energy. It’s all life-force energy.
+- KUNDALINI, CHI, AND THE INNER FLUTE
+- In yogic—including Tantric—tradition, our sexual energy is called Kundalini. It is depicted as a coiled snake resting at the base of our spine.
+- In the Chinese Taoist tradition, life-force energy is called chi. Sexual energy is called ching-chi.
+- Chi travels in a big electrical circuit called the Microcosmic Orbit. The Microcosmic Orbit is made up of two channels: the back (Governor Channel) and the front (Functional Channel). The back channel begins at the perineum and runs up the back of the body. It follows the spine and neck up over the top of the head and down the forehead, ending at the indentation between the bottom of your nose and your upper lip. The front channel runs from the tip of your tongue, down your throat, and along the midline of the front of your body to your perineum.
+- “SEEING” SEXUAL ENERGY
+- how and where that sexual energy is moving.
+- One way is to listen to the sounds she is making. Is the sound low pitched and sort of grunty/groany? If it is, the energy is concentrated in the lower chakras. If the sound is breathy, mid-pitched, and sounds like ahh, the sexual energy has moved up to the heart and throat chakras. If it is high pitched and sounds like eee, then the sexual energy is dancing around the third eye or crown chakra.
+- As energy moves up the body, the body moves with it. When you first start to suck your lover’s clit, she may begin by bumping and grinding her hips. Then she may do little back bend–like motions, raising her solar plexus, or heart chakra, into the air. She may end up shaking her head or throwing it backward as the energy reaches her upper chakras.
+- DROPPING INTO THE BODY
+- We do want to bring sexual energy up and out into the entire body. But we do not bring sexual energy up into the higher chakras to take it away from the lower chakras.
+- The intention is not to leave the body, but to drop into the body more deeply and completely.
+- Try this: Close your eyes (after you’ve finished reading this paragraph, naturally). Turn your attention inward. Notice which parts of your physical body you can feel. Can you feel your feet, legs, genitals, belly, spine, arms, hands, throat, head, eyes, and mouth? What parts aren’t there at all? Which are shadowy and vague? This exercise may help you get some idea of where your energy might be stuck.
+- Breath is a great tool to use to begin to get energy moving
+- “Moving while sexually aroused easily transforms tension habits and wakes up more pleasure in our bodies. I even encourage people to move as they are receiving touch on a massage table. Our bodies need to dance our arousal.” —Joseph Kramer, founder, Sexological Bodywork
+- You cannot stand perfectly still if you tense up and try not to move. After a few brief moments you’ll start to sway. But if you relax, breathe, and keep moving inside, you’ll be perfectly still on the outside.
+- to stand perfectly still involves countless little movements to keep the balance that is stillness.
+- you need to move in order to circulate erotic energy throughout your body. Movement in any part of your body focuses and releases energy from that part. Then the energy can be spread to any other part. Which movements work best? Just as in jazz dance, it’s those that come from the hips and pelvis.
+- Hip Circles Stand with your feet hip-distance apart. Swing your hips to the right as far as you can without putting strain on your lower back. Now push your pelvis forward. Swing your hips to the left. Now push your buttocks as far back as you can. Remember, be kind to your back. Connect those four points in a smooth circle. Repeat a few times, and then circle in the opposite direction.
+- Figure Eights Now let’s try some figure eights. Close your eyes, imagine yourself a belly dancer in some exotic temple, and let go. Move your hips in a figure-eight motion. (Swing your hips back-right-front on the right side, then back-left-front on the left side.) Remember that this isn’t an aerobics class—this is sex. Let it be sexy. This is a perfect time to add some PC squeezes.
+- PC Squeezes
+- Gently squeeze the PC muscle for a couple of seconds. Release.
+- Again, squeeze, and release.
+- Repeat for a total of eight PC squeezes.
+- Do eight PC squeezes as fast as you can.
+- Remember to be gentle. If you’re doubling over with each squeeze, you’re working too hard!
+- Don’t worry if it feels as if you are also tightening your anus when you squeeze your PC muscle. This isn’t a problem. But as you strengthen your PC muscle, you’ll probably notice that you can isolate it more and more from the surrounding muscles of the pelvic floor.
+- The Wave
+- Stand with your feet hip-distance apart. Bend your knees slightly. Imagine you are an ocean wave, or a dolphin. Swing your pelvis forward and let the rest of your torso follow. As your breastbone moves forward and up, your back arches. This is the top of the wave. Round your shoulders and your back; your pelvis swings back. Swing your pelvis forward and let the rest of your torso follow. Repeat.
+- Put It All Together
+- Put on some music you’d like to move to. Make sure it’s something that makes you want to move your hips. Stand with your feet hip-distance apart. Bend your knees slightly. Breathe. Let your mouth fall open slightly. Relax your jaw and face, open the back of your throat. Inhale through your mouth, gently but fully. Exhale with a gentle little sigh…ahh. Begin the Wave. Start gently, and let it build. Add a PC squeeze to each wave. You decide where it goes in your wave. There is no right or wrong place to add it. Put your awareness in your genitals. Each time you squeeze your PC muscle, imagine sexual energy being released from your genitals and carried up the front of your body by your breath. At the top of your wave, your sexual energy moves over the top of your head and down your back to your genitals again. Keep yourself wrapped in a cocoon of sexual energy. (Some people feel the wave of energy move up their back and down their front. That’s perfectly fine.) Keep breathing, keep the Wave going, and keep the PC squeezes going. Let it be sexy. Now, instead of “doing” the breath, the Wave, and the PC squeezes, let them all “do” you. Let the energy you’ve built move you in any way it wants to. Just go with it and have fun!
+- Orgasm: The Totality of Possibilities
+- WHAT IS ORGASM?
+- The most commonly experienced orgasm could be called the volcanic orgasm. It’s got a quick buildup and a rapid release, followed by a cooling down. The physical sensation is centered in your genitals and lower abdomen.
+- the kind of orgasm we experience when we suddenly release stored-up tension and energy, is in many ways similar to the volcanic orgasm, with a major exception—it does not feel as localized. It is still a genital orgasm, but afterward you feel as though the tension has been drained out of your arms and legs. Your hands and fingers may tingle. Your chest feels more open, and you can breathe more easily and deeply. The relaxation is profound and satisfying.
+- The kind of orgasm that combines the release of tension and energy with the added plus of a spiritual connection to All That Is may (or may not) begin with the genitals. The orgasmic energy starts in the very center of your being, then flows out to the limits of your body and beyond. You may feel boundaryless, as if you can’t tell where you end and everything else begins. You may feel as if you are in a sort of alternate universe where everything is beautiful, quiet, and peacefully connected. Your orgasm is happening everywhere and nowhere, and it may go on and on.
+- This kind of orgasm is not limited to sex, and it’s certainly not limited to the genitals.
+- Emotiongasms are “total” experiences; you allow your body to express its emotions without trying to stifle them. This is how we behaved when we were young children, before we were socialized to behave more “acceptably.” Emotiongasms are a liberation from tight bondage.
+- The physiological ingredients of an emotiongasm are the same as a genital orgasm. A buildup of life force or sexual energy is brought about by a combination of breath, movement, sound, and muscular contractions and is followed by a release. This buildup and subsequent orgasmic release of life/sex energy doesn’t necessarily depend on genital stimulation. Emotiongasms don’t even depend on any particular emotion.
+- According to the principles of Taoism, yang energy builds quickly and dissipates quickly; yin energy builds slowly and dissipates slowly. Traditionally, it has been thought that men are more yang and women are more yin.
+- yin and yang can be closely aligned with the hormones that predominate in the body. People with testosterone-based bodies (whether they were born male or take testosterone as a supplement) tend to be more yang. People with estrogen-based bodies (whether they were born female or take estrogen as a supplement) are typically more yin.
+- Whether you identify with (or your desires lean toward) the yin or the yang, when you strive for a balance of the two, you can create the orgasmic experience you desire.
+- ORGASM TIPS FOR ESTROGEN-BASED BODIES
+- Don’t hold your breath! No matter what, keep breathing. You may feel that you’ll “lose” the orgasm when you breathe, but you won’t; you’ll just build up more and more sexual energy, which will create a better orgasm.
+- WHAT ABOUT G-SPOT ORGASMS?
+- There is no specific anatomical structure called a G-spot. However, there is a urethral sponge. The urethral sponge is a cylindrical tube of tissue that surrounds the urethra. It sits above the vagina (i.e., toward the front of the body) and can be stimulated through the roof of the vagina.
+- Some women love having their urethral sponges stimulated; others feel it is too intense unless and/or until others parts of the erectile network are thoroughly stimulated first.
+- ORGASM TIPS FOR TESTOSTERONE-BASED BODIES
+- Ejaculation is simply a reflex, a muscle spasm triggered by orgasm. Orgasm happens just before ejaculation.
+- TEN WAYS TO DELAY EJACULATION
+- Masturbate almost to the point of orgasm. As you approach orgasm, notice what is happening in your body. What muscles are you tensing? How are you breathing? What are you doing that is speeding up ejaculation? Now, just as you are on the verge of orgasm:
+- Stop stroking or thrusting your penis for ten to twenty seconds. Go totally limp, completely soft inside. During this moment of relaxation, take your focus off your genitals. Direct it to the top of your head or your third eye. You’ll feel your orgasmic energy remain in motion, even though the muscles of your genitals are not.
+- Breathe in and hold your breath for several moments, until the urge to ejaculate subsides. Remember, the more you breathe, the more you feel. In this case, you want to decrease sensation. If this doesn’t work, try a fast, shallow breath like the Breath of Fire
+- Contract and hold the PC muscle. This is similar to the PC squeeze exercise (see “PC Squeezes” in chapter 8). You’ll have to practice to find exactly the right timing for this. The PC muscle surrounds your prostate. By learning to squeeze your prostate while it is contracting involuntarily, you can stop ejaculation just before the point of no return.
+- Find your perineum—the area between your anus and your testicles. While contracting your PC muscle, press a finger into this point, up to your first knuckle. This may sound strange, but it works.
+- Place two fingers on the underside of your penis, place your thumb on top, and squeeze.
+- Holding your penis in one hand, press down on the tip with your thumb.
+- Holding your penis between two fingers and your thumb, squeeze at the base.
+- Lie on your back. Gravity will draw blood away from your erection. (If you are already on your back, lift your hips.)
+- Pull your scrotal sac down and away from your body. (Your testicles pull up close to the body when you are about to ejaculate.)
+- Relaxation is the key to voluntary ejaculation. This is easier to learn in passive, receptive mode, so when you’re with your lover, lie back and let her/him/them get on top. Let your lover be the surfer and you the surfboard. Relax, breathe, and slow down.
+- In addition to pitch, each chakra has a corresponding syllable (or syllables, depending on the yogic tradition you follow). For building erotic energy, I have found these to be the most effective: First and second (root and sex) chakras: a very low ooo (as in goose) Third (solar plexus) chakra: a somewhat higher pitched ohh (as in open) Fourth (heart) chakra: a somewhat higher pitched ahh (as in art) Fifth (throat) chakra: a somewhat higher pitch aay (as in play) Sixth and seventh (third eye and crown) chakras: a very high pitched eee (as in peep)
+- Chakra Sounds Sit or stand comfortably and keep your spine straight. Start with a very low ooo. Feel the sound vibrate deep in your genitals and lower abdomen. Raise the pitch a little and let ohh vibrate your solar plexus. Stay with it. Change pitches slightly until you can actually feel the vibration in your solar plexus. Sing or chant a somewhat higher-pitched ahh. Let your shoulders relax and feel your chest expand. You’ll know it’s the right pitch when you feel the maximum vibration or expansion around your heart. Next, sing or chant aay. Make sure you’ve raised the pitch from the previous chakra. Keep adjusting the pitch until you find the one that gives you the best vibration in your throat. Last, sing or chant eee at the highest pitch you can comfortably reach. Let it vibrate the top of your head!
+- Breath and Energy Orgasms
+- THE BREATH ENERGYGASM
+- BEFORE YOU BEGIN
+- The Breath Energygasm is a chakra-based meditation. You will be breathing into each chakra. As you do so, you may want to meditate on the color or affirmations appropriate to each chakra.
+- The Breath Energygasm
+- Lie comfortably on your back with your knees up and your feet flat on the floor. Keep your spine straight. Don’t use a pillow.
+- Relax your jaw. Yawn. Keep the back of your throat open.
+- Breathe in and out through your mouth. If you’re not comfortable with that much mouth breathing, feel free to breathe in through your nose and exhale through your mouth. How you breathe is less important than that you take in as much air as possible with as little tension as possible.

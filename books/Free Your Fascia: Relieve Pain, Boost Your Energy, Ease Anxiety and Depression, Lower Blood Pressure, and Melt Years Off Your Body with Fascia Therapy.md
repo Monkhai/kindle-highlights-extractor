@@ -1,0 +1,48 @@
+# Free Your Fascia: Relieve Pain, Boost Your Energy, Ease Anxiety and Depression, Lower Blood Pressure, and Melt Years Off Your Body with Fascia Therapy
+
+- CHAPTER 1 WHAT IS FASCIA—
+- WHAT EXACTLY IS FASCIA?
+- fascial tissue can take on different forms—for instance, sheets, bands, and webs—to perform different jobs.
+- The shape your fascia chooses for a job basically depends on the amount and direction of the physical pressure and demand you put on it. That’s why tendons are tough bands, while the fascia under your skin is weblike and flexible and the fascia around your organs is a little like plastic wrap.
+- In your own body, you have multiple layers of fascia.
+- superficial fascia,
+- a delicate sheath that envelops you from head to toe like a wetsuit.
+- deep fascia,
+- surrounds and shapes each muscle and bone and forms the tough, stringy tendons.
+- visceral fascia—
+- wrap around your organs, giving them shape and holding them in place.
+- fascia doesn’t just surround your bones and muscles; it penetrates them.
+- WHAT MAKES UP THE FASCIA?
+- It’s an oversimplification, but you can think of fascia as a liquid-filled mesh made of strings of collagen
+- and elastin
+- along with a clear gel called ground substance.
+- Within the fascia, you’ll also find cells called fibroblasts.
+- Fibroblasts manufacture the collagen, elastin, and other fibers within the fascia, as well as other crucial molecules.
+- also in charge of cleaning, repairing, and replacing any damaged parts of the fascia—
+- WHAT DOES THE FASCIA DO?
+- It allows the parts of your body to glide over, under, and around each other.
+- It holds everything in place.
+- It holds and moves water.
+- It’s a body-wide communication network.
+- Your fascia contains 10 times more sensory nerve endings than your muscles,
+- It creates “tensegrity.”
+- Tensegrity creates internal forces that suspend everything in place.
+- The bones, organs, and muscles of your body are held in place by your fascia, which acts as your internal support infrastructure.
+- The fascia is able to absorb and disseminate physical stresses throughout its entire structure.
+- It promotes the flow of lymph.
+- It reacts to stress.
+- It appears to play a role in providing the brain with interoceptive information, or information about your physiological state.
+- CHAPTER 2 WHY GOOD FASCIA GOES BAD
+- 1: TOO LITTLE MOVEMENT
+- when fascia doesn’t move, it dries out, stiffens, gets sticky, and even becomes toxic.
+- 3: OVERUSE
+- chronic bad posture and repeated actions can cause very minute tears in your fascia, called microtraumas.
+- 4: DEHYDRATION
+- many of us are cheating our fascia of water, with research suggesting that up to 75 percent of us are chronically dehydrated.
+- 5: STRESS
+- Stress makes your fascia tight, and tight fascia, in turn, increases your stress.
+- 6: AGING
+- 7: A BAD DIET
+- Let’s talk about the bad foods first. The biggest culprit here is sugar, which combines with protein in your body to form molecules called advanced glycation end products, or AGEs.
+- AGEs are very bad news because these destructive molecules cause the collagen fibers in your fascia (and elsewhere in your body) to “cross-link,” making them stiff and misshapen and making it impossible for the body to repair them.
+- Vitamin C is required to form procollagen, which your body uses to make different types of collagen.

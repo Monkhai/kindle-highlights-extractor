@@ -1,0 +1,25 @@
+# The Brain Fog Fix: Reclaim Your Focus, Memory, and Joy in Just 3 Weeks
+
+- Not enough serotonin → vulnerability to physical and emotional pain → painkillers, antidepressants, and antianxiety meds → brain fog, reduced sexual function, possible dependence
+- Imbalanced dopamine → feeling unfocused, unmotivated, bored, impulsive → risky activities, caffeine, stimulants, Adderall → “crashes” from the highs, brain fog, listlessness, possible dependence
+- Imbalanced cortisol → feeling exhausted, wired, or both → caffeine, sleep aids, sometimes antidepressants or antianxiety meds → brain fog, increased problems of exhaustion and sleeplessness, sexual side effects, anxiety, depression → possible dependence
+- Without enough vitamin B, our brains can’t make the chemicals we need for mood, brain function, and healthy sleep.
+- slow-burning carbohydrates contain amino acids like tryptophan, which is a precursor to serotonin.
+- When you aren’t making enough serotonin, guess what you crave: carbs!
+- The more you cook a vegetable, the more you may compromise the blood sugar–blocking capabilities of the fiber it contains. This fiber can minimize some of the blood-sugar spikes created by carbs, especially when you eat the vegetable before the carb.
+- your body has to convert ALA into DHA and EPA to get the biggest benefits, and your body is not very good at this conversion, especially if you’re a man.
+- Women might get twice the DHA and EPA as men because of their higher estrogen levels, which is helpful during pregnancy, when estrogen soars and the baby gets lots of DHA that is essential for brain development.
+- the ratio with the most data supporting mood improvement is approximately 7:1 EPA to DHA.
+- The two brands that contain this ratio are OM3 Emotional Balance and Country Life Omega-3 Mood, both of which provide approximately 1,000 mg of EPA and just 150 mg of DHA.
+- A general rule of thumb is to favor wild-caught over farm-raised fish.
+- Black coffee and green or black tea can reduce your mercury exposure by over 50 percent.
+- Here are the fish you want to make the focus of your diet: Albacore tuna, troll or pole caught, fresh or canned, U.S. or British Columbia Arctic char, farmed Barramundi, farmed, U.S. Coho salmon, farmed, U.S. Dungeness crab, wild, California, Oregon, or Washington Longfin squid, wild, Atlantic Mussels, farmed Oysters, farmed Pacific sardines, wild Pink shrimp, wild, Oregon Rainbow trout, farmed Salmon, wild, Alaska Spot prawns, wild, British Columbia
+- Whatever type of meat you’re preparing, marinate before you grill, flip it frequently, and eat it medium rare instead of well done. All of these strategies have been shown to help reduce meat’s toxicity.
+- Folate
+- Where to Get It: Spinach, Brussels sprouts, romaine, asparagus, and broccoli all contain high levels of folate. So do legumes like lentils, kidney beans, and black-eyed peas.
+- Vitamin B12
+- Where to Get It: Organic eggs and fish are a fantastic source of vitamin B12.
+- Vitamin D
+- Where to Get It: Salmon has the most vitamin D of any food, and wild varieties contain far more than polluted, farm-raised varieties. Fruits and vegetables also contain vitamin D, which is why we’ll be upping the amount of produce we get in the first week. From now on, seven a day is our new golden rule. Fifteen to twenty minutes of sun exposure is another great way to get vitamin D.
+- Eating berries regularly has been shown to slow the progression of cognitive decline by up to 2½ years, according to one study.18 Blueberries in particular might even help people overcome genetic predispositions for Alzheimer’s disease.
+- the omega-3s in fish, DHA and EPA, can improve the functioning of our brain, and this becomes particularly important as we age. One recent study with adults aged 50 to 75 found that verbal fluency, visual tasks, and reading ability all improved with a fish oil supplement. The fish oil even helped improve the structure of the brain itself.
