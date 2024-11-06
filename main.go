@@ -14,14 +14,14 @@ func main() {
 
 	s := scraper.NewScraper()
 	if err := s.Signin(); err != nil {
-		log.Fatalf("fuck signing %v", err)
+		log.Fatalf("error signin in %v", err)
 	}
 	if err := s.NavigateToHighlights(); err != nil {
-		log.Fatalf("fuck navigating to highlights %v", err)
+		log.Fatalf("error navigating to highlights %v", err)
 	}
 	asins, err := s.GetAsins()
 	if err != nil {
-		log.Fatalf("fuck getting asins %v", err)
+		log.Fatalf("error getting asins %v", err)
 	}
 	s.Asins = asins
 
@@ -33,7 +33,7 @@ func main() {
 			s.NextBook(s.Asins[i])
 			book, err = s.GetBook()
 			if err != nil {
-				log.Println("still not letting me read this wow")
+				log.Println("error reading")
 			}
 		}
 		books = append(books, book)
@@ -47,7 +47,7 @@ func main() {
 	for _, book := range books {
 		err := utils.WriteBookToMarkdown(book, outputDir)
 		if err != nil {
-			log.Fatalf("fuck creating files %v", err)
+			log.Fatalf("error creating files %v", err)
 		}
 	}
 }
