@@ -1,14 +1,17 @@
 package scraper
 
 import (
+	"errors"
 	"time"
 
 	"github.com/chromedp/chromedp"
 )
 
+var notebookURL string = "https://read.amazon.com/notebook"
+
 func (s *Scraper) NavigateToHighlights() error {
 	err := chromedp.Run(s.Ctx,
-		chromedp.Navigate("https://read.amazon.com/notebook"),
+		chromedp.Navigate(notebookURL),
 		chromedp.Sleep(3*time.Second),
 	)
 	if err != nil {
@@ -19,7 +22,19 @@ func (s *Scraper) NavigateToHighlights() error {
 
 func (s *Scraper) GetAsins() ([]string, error) {
 	var asins []string
+	var currURL string
 	err := chromedp.Run(s.Ctx,
+		chromedp.Location(&currURL),
+	)
+  if err != nil {
+    return nil, err
+  }
+
+  if currURL != notebookURL {
+    return nil, errors.New("Not in the notebook URL")
+  }
+
+	err = chromedp.Run(s.Ctx,
 		chromedp.Evaluate(`Array.from(document.querySelectorAll('.kp-notebook-library-each-book span[data-get-annotations-for-asin]')).map(el => el.getAttribute('data-get-annotations-for-asin')).map(data => JSON.parse(data).asin)`, &asins),
 	)
 	if err != nil {
