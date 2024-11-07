@@ -43,7 +43,7 @@ func main() {
 	}
 
 	reader := bufio.NewScanner(os.Stdin)
-	outputDir := shared.GetInput(reader, "Where should we save this file to? (should be a path to a dir)")
+  outputDir := shared.GetInput(reader, "Where should we save this file to? (should be a path to a directory): ")
 	for _, book := range books {
 		err := utils.WriteBookToMarkdown(book, outputDir)
 		if err != nil {
