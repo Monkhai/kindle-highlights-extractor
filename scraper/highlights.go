@@ -26,13 +26,13 @@ func (s *Scraper) GetAsins() ([]string, error) {
 	err := chromedp.Run(s.Ctx,
 		chromedp.Location(&currURL),
 	)
-  if err != nil {
-    return nil, err
-  }
+	if err != nil {
+		return nil, err
+	}
 
-  if currURL != notebookURL {
-    return nil, errors.New("Not in the notebook URL")
-  }
+	if currURL != notebookURL {
+		return nil, errors.New("Not in the notebook URL")
+	}
 
 	err = chromedp.Run(s.Ctx,
 		chromedp.Evaluate(`Array.from(document.querySelectorAll('.kp-notebook-library-each-book span[data-get-annotations-for-asin]')).map(el => el.getAttribute('data-get-annotations-for-asin')).map(data => JSON.parse(data).asin)`, &asins),
