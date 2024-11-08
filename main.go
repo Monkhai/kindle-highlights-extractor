@@ -11,11 +11,7 @@ import (
 )
 
 func main() {
-
 	s := scraper.NewScraper()
-	// if err := s.Signin(); err != nil {
-	// 	log.Fatalf("error signin in %v", err)
-	// }
 	if err := s.NavigateToHighlights(); err != nil {
 		log.Fatalf("error navigating to highlights %v", err)
 	}
