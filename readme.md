@@ -15,6 +15,10 @@ var SessionId string = "<your string token>"
 
 To get these tokens you need go to the [kindle reader](reader.amazon.com) and get there from the cookies tab in the application section of the devtools
 
-## Other
+# Other
 
 I made this script for personal use but then realized others might also not want to pay for something this simple. If this does not work for you please open an issue and i will be happy to try and fix it!
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
