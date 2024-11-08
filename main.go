@@ -13,9 +13,9 @@ import (
 func main() {
 
 	s := scraper.NewScraper()
-	if err := s.Signin(); err != nil {
-		log.Fatalf("error signin in %v", err)
-	}
+	// if err := s.Signin(); err != nil {
+	// 	log.Fatalf("error signin in %v", err)
+	// }
 	if err := s.NavigateToHighlights(); err != nil {
 		log.Fatalf("error navigating to highlights %v", err)
 	}
@@ -33,7 +33,7 @@ func main() {
 			s.NextBook(s.Asins[i])
 			book, err = s.GetBook()
 			if err != nil {
-				log.Println("error reading")
+				log.Println("error reading book")
 			}
 		}
 		books = append(books, book)

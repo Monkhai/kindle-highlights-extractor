@@ -13,8 +13,8 @@ type Scraper struct {
 
 func NewScraper() *Scraper {
 	opts := append(chromedp.DefaultExecAllocatorOptions[:],
-		chromedp.Flag("headless", true),
-		chromedp.Flag("disable-gpu", false),
+		chromedp.Flag("headless", false),
+		chromedp.Flag("disable-gpu", true),
 	)
 	allocCtx, _ := chromedp.NewExecAllocator(context.Background(), opts...)
 	ctx, _ := chromedp.NewContext(allocCtx)

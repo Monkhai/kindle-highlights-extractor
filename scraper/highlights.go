@@ -1,16 +1,46 @@
 package scraper
 
 import (
-	"errors"
+	"context"
+	"fmt"
 	"time"
 
+	"github.com/Monkhai/kindle-highlights-exporter/shared"
+	"github.com/chromedp/cdproto/cdp"
+	"github.com/chromedp/cdproto/network"
 	"github.com/chromedp/chromedp"
 )
 
 var notebookURL string = "https://read.amazon.com/notebook"
 
 func (s *Scraper) NavigateToHighlights() error {
+
+	expiration := cdp.TimeSinceEpoch(time.Now().Add(365 * 24 * time.Hour))
+
 	err := chromedp.Run(s.Ctx,
+		chromedp.ActionFunc(func(ctx context.Context) error {
+			cookies := []struct {
+				Name, Value, Domain, Path string
+			}{
+				{"ubid-main", shared.UbidMain, ".amazon.com", "/"},
+				{"at-main", shared.AtMain, ".amazon.com", "/"},
+				{"x-main", shared.XMain, ".amazon.com", "/"},
+				{"session-id", shared.SessionId, ".amazon.com", "/"},
+			}
+			for _, c := range cookies {
+				err := network.SetCookie(c.Name, c.Value).
+					WithDomain(c.Domain).
+					WithPath(c.Path).
+					WithExpires(&expiration).
+					WithHTTPOnly(false).
+					WithSecure(false).
+					Do(ctx)
+				if err != nil {
+					return err
+				}
+			}
+			return nil
+		}),
 		chromedp.Navigate(notebookURL),
 		chromedp.Sleep(3*time.Second),
 	)
@@ -31,7 +61,7 @@ func (s *Scraper) GetAsins() ([]string, error) {
 	}
 
 	if currURL != notebookURL {
-		return nil, errors.New("Not in the notebook URL")
+		return nil, fmt.Errorf("Not in the notebook URL. Instead in %s", currURL)
 	}
 
 	err = chromedp.Run(s.Ctx,
